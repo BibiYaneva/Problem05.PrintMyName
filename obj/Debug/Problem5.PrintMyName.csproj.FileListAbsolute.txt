@@ -1,0 +1,5 @@
+c:\users\bibi\documents\visual studio 2012\Projects\Intro-Programming-Homework\Problem5.PrintMyName\bin\Debug\Problem5.PrintMyName.exe.config
+c:\users\bibi\documents\visual studio 2012\Projects\Intro-Programming-Homework\Problem5.PrintMyName\bin\Debug\Problem5.PrintMyName.exe
+c:\users\bibi\documents\visual studio 2012\Projects\Intro-Programming-Homework\Problem5.PrintMyName\bin\Debug\Problem5.PrintMyName.pdb
+c:\users\bibi\documents\visual studio 2012\Projects\Intro-Programming-Homework\Problem5.PrintMyName\obj\Debug\Problem5.PrintMyName.exe
+c:\users\bibi\documents\visual studio 2012\Projects\Intro-Programming-Homework\Problem5.PrintMyName\obj\Debug\Problem5.PrintMyName.pdb
